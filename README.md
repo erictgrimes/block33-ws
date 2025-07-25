@@ -25,6 +25,18 @@ In order to access EmptyStack's internal data, you will have to find an employee
 credentials and log in via `node mainframe`. Getting that information will require
 some detective work!
 
+-- smart-money-44
+-- Brad Steele (son)
+
+-- possible dads
+-- Andrew Steele sharp-engine-57(dad) triple-cart-38 password456
+-- Kevin Steele stinky-tofu-98
+
+-- Project TAXI LidWj
+--username your-boss-99
+-- password notagaincarter
+DczE0v2b
+
 Your first clue: you know that the forum post was made in April 2048, and the author
 mentioned something about EmptyStack and their dad, who shares the same last name and
 is also an active participant in the forum.
